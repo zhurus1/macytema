@@ -1,14 +1,51 @@
 [ 
-   { 
-       "author" : "Macy", 
-       "name" : "Macytema1", 
-       "keyWords" : "keyword1,keyword2", 
-       "version" : "1.0.0", 
-       "dofusVersion" : "2.37", 
-       "description" : "Macytema1", 
-       "url" : "https://github.com/zhurus1/macytema/blob/master/sandStone.rar?raw=true", 
-       "previewUrl" : "Cliquez ici", 
-       "creationDate" : "08/10/2016", 
-       "modificationDate" : "08/10/2016" 
-   } 
-]  
+    { 
+
+	"author" : "macy", 
+	"name" : "macy1e", 
+	"keyWords" : "couleur,bleu,blue,color", 
+	"version" : "1.0.7", 
+	"dofusVersion" : "2.38", 
+	"description" : "Nuances de bleu. / Shades of blue.", 
+	"url" : "https://github.com/zhurus1/macytema/blob/master/sandStone.rar?raw=true", 
+	"previewUrl" : "http://ordre2vlad.fr/dofusthemes/images/preview/blueStone.png", 
+	"creationDate" : "01/09/2016", 
+	"modificationDate" : "08/11/2016"
+    }, 
+    { 
+	"author" : "Salakiss", 
+	"name" : "Wosissuwe", 
+	"keyWords" : "couleur,rose,pink,violet,purple,color", 
+	"version" : "1.0.5", 
+	"dofusVersion" : "2.38", 
+	"description" : "La rosissure ne s'attaque pas qu'aux bouftous ! / Happy Saint Ballotwine day !", 
+	"url" : "http://ordre2vlad.fr/dofusthemes/themes/Wosissuwe.zip", 
+	"previewUrl" : "http://ordre2vlad.fr/dofusthemes/images/preview/Wause.png", 
+	"creationDate" : "02/10/2016", 
+	"modificationDate" : "08/11/2016"  
+    },
+    { 
+	"author" : "Salakiss", 
+	"name" : "Argentic", 
+	"keyWords" : "gris,grey,color,couleur", 
+	"version" : "1.0.7", 
+	"dofusVersion" : "2.38", 
+	"description" : "Nuances de gris. / Shades of grey.", 
+	"url" : "http://ordre2vlad.fr/dofusthemes/themes/Argentic.zip", 
+	"previewUrl" : "http://ordre2vlad.fr/dofusthemes/images/preview/Argentic.png", 
+	"creationDate" : "02/09/2016", 
+	"modificationDate" : "08/11/2016"  
+    },
+    { 
+	"author" : "Granuda-Salakiss", 
+	"name" : "sandStone", 
+	"keyWords" : "beige, clair", 
+	"version" : "1.0.6", 
+	"dofusVersion" : "2.38", 
+	"description" : "Thème beige V1, by Granuda.", 
+	"url" : "http://ordre2vlad.fr/dofusthemes/themes/sandStone.zip", 
+	"previewUrl" : "http://ordre2vlad.fr/dofusthemes/images/preview/sandStone.png", 
+	"creationDate" : "10/10/2016", 
+	"modificationDate" : "08/11/2016"  
+    } 
+]
